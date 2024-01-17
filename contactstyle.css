@@ -1,0 +1,35 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-color: #dbddf1;
+}
+.container{
+	padding: 0px 0px;
+}
+
+.row {
+text-align:center;
+}
+
+.btn{
+
+text-decoration: none;
+
+color:blue;
+
+padding: 15px 20px;
+
+border: 2px solid white;
+
+transition: 0.6s ease; }
+
+.btn:hover{
+
+ background: #ffff;
+}
+
+.but{
+  background: #3B5998;
+ }
